@@ -7,6 +7,11 @@ ruby '2.6.3'
 gem 'rails', '~> 6.0.0'
 # Use mysql as the database for Active Record
 # gem 'mysql2', '>= 0.4.4'
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'bootstrap-sass', '~> 3.4.1'
+gem 'devise-bootstrap-views'
+gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
